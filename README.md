@@ -1,1 +1,1 @@
-# mabsory
+# mansory
